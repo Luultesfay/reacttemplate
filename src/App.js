@@ -1,11 +1,9 @@
-import Main from "./components/Main";
-import NavBar from "./components/NavBar";
+import Bottomcard from "./components/BottomCard";
 
 function App() {
   return (
     <div className="App">
-      <NavBar />
-      <Main />
+      <Bottomcard />
     </div>
   );
 }
